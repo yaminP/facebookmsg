@@ -33,14 +33,14 @@ export default function Home() {
         </div>
       </div>
 
-      <div>
+      <div className='container mx-auto my-10'>
         <p>
           What is artificial intelligence?
-          Hear the term artificial intelligence (AI) and you might think of self-driving cars, robots, ChatGPT or other AI chatbots, and artificially created images. But it's also important to look behind the outputs of AI and understand how the technology works and its impacts for this and future generations.
+          Hear the term artificial intelligence (AI) and you might think of self-driving cars, robots, ChatGPT or other AI chatbots, and artificially created images. But its also important to look behind the outputs of AI and understand how the technology works and its impacts for this and future generations.
 
-          AI is a concept that has been around, formally, since the 1950s, when it was defined as a machine's ability to perform a task that would've previously required human intelligence. This is quite a broad definition and one that has been modified over decades of research and technological advancements.
+          AI is a concept that has been around, formally, since the 1950s, when it was defined as a machines ability to perform a task that wouldve previously required human intelligence. This is quite a broad definition and one that has been modified over decades of research and technological advancements.
 
-          When you consider assigning intelligence to a machine, such as a computer, it makes sense to start by defining the term 'intelligence' -- especially when you want to determine if an artificial system is truly deserving of it.
+          When you consider assigning intelligence to a machine, such as a computer, it makes sense to start by defining the term intelligence -- especially when you want to determine if an artificial system is truly deserving of it.
         </p>
 
         <p>
@@ -49,7 +49,7 @@ export default function Home() {
 
           AI เป็นแนวคิดที่มีมาอย่างเป็นทางการตั้งแต่ทศวรรษ 1950 เมื่อถูกกำหนดให้เป็นความสามารถของเครื่องจักรในการทำงานที่ก่อนหน้านี้ต้องใช้สติปัญญาของมนุษย์ นี่เป็นคำจำกัดความที่ค่อนข้างกว้างและได้รับการแก้ไขตลอดทศวรรษของการวิจัยและความก้าวหน้าทางเทคโนโลยี
 
-          เมื่อคุณพิจารณากำหนดความฉลาดให้กับเครื่องจักร เช่น คอมพิวเตอร์ คุณควรเริ่มต้นด้วยการกำหนดคำว่า 'ความฉลาด' โดยเฉพาะอย่างยิ่งเมื่อคุณต้องการพิจารณาว่าระบบประดิษฐ์นั้นสมควรได้รับมันจริง ๆ หรือไม่
+          เมื่อคุณพิจารณากำหนดความฉลาดให้กับเครื่องจักร เช่น คอมพิวเตอร์ คุณควรเริ่มต้นด้วยการกำหนดคำว่า ความฉลาด โดยเฉพาะอย่างยิ่งเมื่อคุณต้องการพิจารณาว่าระบบประดิษฐ์นั้นสมควรได้รับมันจริง ๆ หรือไม่
         </p>
       </div>
 
