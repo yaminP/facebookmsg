@@ -5,11 +5,13 @@ module.exports = {
     './src/components/**/*.{js,ts,jsx,tsx,mdx}',
     './src/container/**/*.{js,ts,jsx,tsx,mdx}',
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
+    
   ],
   theme: {
-    extend: {
-      
-    },
+    extend: { },
+    fontFamily: {
+      'custom': ['ubuntu-mono', 'Ubuntu', 'sans-serif'],
+  },
   },
   plugins: [],
 }
